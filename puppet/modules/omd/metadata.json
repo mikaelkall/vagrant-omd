@@ -1,0 +1,13 @@
+{
+  "name": "omd",
+  "version": "0.1.0",
+  "author": "Mikael Kall",
+  "summary": "Install and configures Nagios OMD.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/n1ght3r/vagrant-omd",
+  "project_page": "https://github.com/n1ght3r/vagrant-omd",
+  "issues_url": "https://github.com/n1ght3r/vagrant-omd",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
